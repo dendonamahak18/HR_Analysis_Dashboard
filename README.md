@@ -9,7 +9,7 @@ This dashboard serves as a valuable tool for HR teams, helping them improve empl
 2. DAX Queries Used in HR Analysis: a. Total Presence % b. Total WFH %  d. Presence by Month e. WFH Trend by Day of Week
 3. HR KPIs & Insights
 ##### The dashboard includes key HR performance metrics, such as:
-Average Presence % (Company-wide attendance trend)
-WFH Trend Analysis (How remote work changes over time)
-Sick Leave Analysis (Identifies peak SL periods)
-Day-wise Attendance Trends (Finds lowest/highest attendance days)
+Average Presence % (Company-wide attendance trend).
+WFH Trend Analysis (How remote work changes over time).
+Sick Leave Analysis (Identifies peak SL periods).
+Day-wise Attendance Trends (Finds lowest/highest attendance days).
