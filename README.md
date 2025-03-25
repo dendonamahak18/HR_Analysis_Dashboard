@@ -18,5 +18,5 @@ The HR Analytics Dashboard is designed to provide data-driven insights into empl
 1. Workforce Attendance Tracking  
 2. Work-From-Home (WFH) Analysis  
 3. Sick Leave (SL) Monitoring  
-4.Decision Support for HR & Management  
-5.Improved Productivity & Policy Making
+4. 4.Decision Support for HR & Management  
+5. 5.Improved Productivity & Policy Making
