@@ -14,4 +14,8 @@ WFH Trend Analysis (How remote work changes over time).<b>
 Sick Leave Analysis (Identifies peak SL periods).<b>  
 Day-wise Attendance Trends (Finds lowest/highest attendance days).
 ### Purpose of the HR Analytics Dashboard
-The HR Analytics Dashboard is designed to provide data-driven insights into employee attendance, work-from-home trends, and sick leave patterns. Its purpose is to help HR professionals, managers, and leadership teams make informed decisions regarding workforce management, employee well-being, and operational efficiency.  1. Workforce Attendance Tracking  2. Work-From-Home (WFH) Analysis  3. Sick Leave (SL) Monitoring  4.Decision Support for HR & Management  5.Improved Productivity & Policy Making
+The HR Analytics Dashboard is designed to provide data-driven insights into employee attendance, work-from-home trends, and sick leave patterns. Its purpose is to help HR professionals, managers, and leadership teams make informed decisions regarding workforce management, employee well-being, and operational efficiency.  1. Workforce Attendance Tracking  
+2. Work-From-Home (WFH) Analysis  
+3. Sick Leave (SL) Monitoring  
+4.Decision Support for HR & Management  
+5.Improved Productivity & Policy Making
